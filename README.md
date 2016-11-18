@@ -89,7 +89,7 @@ object. It should look something like this:
 }
 ```
 
-**Note:** This would be a great time to install [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) if you haven't already!
+**Note:** This would be a great time to install [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) if you haven't already!
 
 It's great that `to_json` gives us all this, but we don't really need
 all of it.
@@ -214,3 +214,5 @@ and worrying about what you'll have to do when you're serializing a
 *big* object model? Don't worry. We'll get there.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/using-to-json-ruby'>Using to_json</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/using-to-json-ruby'>Using to_json</a> on Learn.co and start learning to code for free.</p>
